@@ -15,6 +15,7 @@
     <None Remove="Controllers\" />
     <None Remove="Models\" />
     <None Remove="Services\" />
+    <None Remove="README.MD" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
